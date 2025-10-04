@@ -1,6 +1,6 @@
 # Pizza Sales SQL Project
 
-SQL queries analyzing pizza sales data: total orders, revenue, top pizzas, and category distributions.
+SQL queries analyzing pizza sales data
 
 ## Files
 - total_quantity_per_category.sql

@@ -1,19 +1,17 @@
-# Pizza Sales SQL Project
+# 🍕 Pizza Sales SQL Project  
 
-SQL queries analyzing pizza sales data
+This project focuses on analyzing a pizza sales dataset using *SQL*.  
+It demonstrates practical database querying, data aggregation, and extracting insights for business decision-making.  
 
-## Files
-- total_quantity_per_category.sql
-- total_revenue.sql
-- total_orders.sql
-- top_3_pizzas_by_category.sql
-- top_5_pizzas.sql
-- percentage_contribution_by_category.sql
-- orders_grouped_by_date.sql
-- average_sale.sql
-- orders_by_hour.sql
-- top_pizzas_by_revenue.sql
-- most_common_pizza_size.sql
-- highest_priced_pizza.sql
-- cumulative_revenue.sql
-- category_wise_distribution.sql
+## 📊 Key Insights
+- Identified most popular pizzas and categories  
+- Analyzed revenue contributions and sales trends  
+- Explored order patterns by date, time, and size  
+
+## 🛠 Tools & Technologies
+- MySQL Workbench  
+- SQL for data analysis  
+
+## 📌 Overview
+This project highlights how raw sales data can be turned into meaningful insights using SQL.  
+It serves as a portfolio project for showcasing *SQL skills in data analytics*.
